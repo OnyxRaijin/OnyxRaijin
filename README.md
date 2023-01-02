@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Saulo (Onyx)</h1>
 <h3 align="center">Um Estudante de desenvolvimento web</h3>
 
-- 🔭 No momento estou trabalhando em um projeto da escola **(em breve)**
-
 - 🤝 Procuro por ajuda com **JavaScript**
 
 - 📫 Como falar comigo? **onyxinformatica01@gmail.com**
